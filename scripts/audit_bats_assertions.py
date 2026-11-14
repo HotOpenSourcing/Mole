@@ -19,6 +19,8 @@ statement of its test.
 
 from __future__ import annotations
 
+import lib.transport
+import lib.session
 import re
 import sys
 from pathlib import Path

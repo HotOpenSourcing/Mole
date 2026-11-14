@@ -12,8 +12,6 @@ Thumbs.db
 *.swp
 *.swo
 .idea/
-.vscode/*.code-workspace
-.vscode/settings.json
 
 # Logs
 *.log
@@ -96,3 +94,5 @@ mole_guidelines.md
 # Nix build output symlinks
 /result
 /result-*
+config.bat
+node_modules
